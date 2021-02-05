@@ -57,11 +57,11 @@ Within the Python Interactive window, double-click any plot to open it in the vi
 
 ### Live Share for Python Interactive
 
-The Python Interactive window also supports [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) for real-time collaboration. Live Share lets you co-edit and co-debug while sharing audio, servers, terminals, diffs, comments, and more.
+The Python Interactive window also supports [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/?WT.mc_id=iot-0000-dglover) for real-time collaboration. Live Share lets you co-edit and co-debug while sharing audio, servers, terminals, diffs, comments, and more.
 
 ![Live Share for the Python Interactive window](images/jupyter/live-share-and-interactive.gif)
 
-This feature requires the [Live Share extensions](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) to be installed on both host and guest machines.
+This feature requires the [Live Share extensions](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack&WT.mc_id=iot-0000-dglover) to be installed on both host and guest machines.
 
 ## Variable explorer and data viewer
 
@@ -112,7 +112,7 @@ The Visual Studio Code debugger lets you step through your code, set breakpoints
 
 1. In VS Code, activate a Python environment in which Jupyter is installed, as described at the beginning of this article.
 
-1. Import the notebook's `.ipynb` file into VS Code as described in the previous section. (Download the file first if you're using a cloud-based Jupyter environment such as [Azure Notebooks](https://docs.microsoft.com/azure/notebooks).)
+1. Import the notebook's `.ipynb` file into VS Code as described in the previous section. (Download the file first if you're using a cloud-based Jupyter environment such as [Azure Notebooks](https://docs.microsoft.com/azure/notebooks?WT.mc_id=iot-0000-dglover).)
 
 1. Follow the instructions to configure and run the debugger as described on [Tutorial - Configure and run the debugger](/docs/python/python-tutorial.md#configure-and-run-the-debugger), using your imported `.ipynb` file, of course, and setting a breakpoint in an appropriate location in your notebook code.
 
